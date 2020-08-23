@@ -24,23 +24,23 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Robert Hung
-  image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
+  image             : assets/images/IMG_0318.jpeg
+# behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
+  email             : juipohun@usc.edu
+  facebook          : robert88991
   github            : roberthung88
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : robert-h-ab8033107
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 
@@ -57,7 +57,7 @@ collections:
 
 
 ### Disqus ###
-disqus: your-short-name-disqus                          # Your website Shortname on disqus
+# disqus: your-short-name-disqus                          # Your website Shortname on disqus
 
 
 ### Analytics ###
