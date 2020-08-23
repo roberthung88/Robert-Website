@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : Robert Hung
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Learning relentlessly,
+                      code-crushing
+                      and always exceeding expectations.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository	    :
 remote_theme        : YoussefRaafatNasry/portfolYOU
