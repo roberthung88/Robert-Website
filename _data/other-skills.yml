@@ -1,7 +1,19 @@
-- name: Adobe Photoshop
+- name: Git
+  percentage: 100
+  color: success
+
+- name: Jekyll
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
+- name: Amazon Web Services
+  percentage: 95
+  color: info
+
+- name: Docker
   percentage: 90
-  color: success
+  color: info
+
+- name: Bootstrap
+  percentage: 80
+  color: info

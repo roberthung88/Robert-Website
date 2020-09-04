@@ -1,17 +1,35 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, University of Southern California, The Viterbi School of Engineering
+  from: 2017
+  to: 2021
+  description: 'Bachelor of Science in Electrical Engineering, Minor in Computer Science<br/>
+               Organizations: IEEE, Taiwanese Student Association, USC Badminton Club'
+               
 
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Software Engineering Intern, EconoMedRx, Los Angeles
+  from: June 2020
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description:  Responsible for website design/maintenance and development, 
+                converting statistical code to work with the website (embed statistical graphs), 
+                and machine learning (bootstrap linear regressions, 
+                ridge regressions and principal component analysis). Also responsible for sentiment analysis using tools like
+                Twitter API. 
+
+- title: Undergraduate Research Assistant, University of Southern California, The Viterbi School of Engineering
+  from: May 2020
+  to: present
+  description:  Funded by the USC Viterbi School of Engineering and worked with Professor Muhammad Naveed 
+                on implementing/improving to-be-published MQTT encryption system. Protocol reduces bandwidth 
+                consumption and allows for confidential processing on server by encrypting at the application level. 
+                Utilizes Yao’s garbled circuits in conjunction with novel cryptographic and system techniques. Responsible for 
+                improving code and paper. Using ACM WiSec comments to make modifications. Planning for resubmission. 
+                Now looking to utilize the Fully Homomorphic Encryption (FHE) Palisade library. 
+
+- title: Volunteer, Tech Easy, Vancouver, Canada
+  from: January 2015
+  to: May 2016
+  description:  Aided the elderly with electronics such as the Mac, PCs and iPhones. Asked open-ended questions to 
+                “find what’s wrong.” Came up with solutions on the spot, although having no prior 
+                experience at times
+
+
+              
