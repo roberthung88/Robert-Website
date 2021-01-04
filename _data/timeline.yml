@@ -1,18 +1,20 @@
 - title: Student, University of Southern California, The Viterbi School of Engineering
   from: 2017
   to: 2021
-  description: 'Bachelor of Science in Electrical Engineering, Minor in Computer Science<br/>
+  description: 'Bachelor of Science in Electrical Engineering (Signal Processing), Minor in Computer Science<br/>
                Organizations: IEEE, Taiwanese Student Association, USC Badminton Club'
                
 
 - title: Software Engineering Intern, EconoMedRx, Los Angeles
   from: June 2020
   to: present
-  description:  Responsible for website design/maintenance and development, 
-                converting statistical code to work with the website (embed statistical graphs), 
-                and machine learning (bootstrap linear regressions, 
-                ridge regressions and principal component analysis). Also responsible for sentiment analysis using tools like
-                Twitter API. 
+  description:  Responsible for website design/maintenance (joelhay.com) 
+                and development, converting statistical code to work with the website 
+                (embed statistical graphs), and using machine learning with sentiment 
+                analysis on Twitter data using Twitter API.
+                
+
+
 
 - title: Undergraduate Research Assistant, University of Southern California, The Viterbi School of Engineering
   from: May 2020

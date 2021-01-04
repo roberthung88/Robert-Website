@@ -1,6 +1,6 @@
 ---
 name: Hardware Guitar Tuner Project	
-tools: [Android, Material Design]
+tools: [PSpice, Oscilloscope, Multimeter]
 image: /assets/images/jonathan-dubon-yEE68_6Z2Qo-unsplash.jpg
 description: Built a tuner that detects whether or not a note is on-pitch
 external_url: 
