@@ -22,7 +22,7 @@
 {%- if post.external_url -%}
   {%- assign post_url = post.external_url -%}
 {%- else -%}
-  {%- assign post_url = post.url | relative_url -%}
+  {%- assign post_url = post.url | relative_url | append: ".html" -%}
 {%- endif -%}
     
 <div class="col-lg-6 my-3 wow animated fadeIn" data-wow-delay=".15s">
