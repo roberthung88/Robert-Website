@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "How to Solve the Bomb Lab?",
+      "category" : "",
+      "tags"     : "Bomb Lab, Assembly Language, Computer Architecture, CSCI 356",
+      "url"      : "/blog/How-to-Solve-the-Bomb-Lab",
+      "date"     : "2021-02-26 00:00:00 -0600"
+    } ,
+  
+    {
       "title"    : "Digital Minimalism",
       "category" : "",
       "tags"     : "Social Media, Minimalism, Technology",
@@ -70,14 +78,6 @@
       "tags"     : "Version Control",
       "url"      : "/blog/what-is-version-control",
       "date"     : "2016-02-09 00:00:00 -0600"
-    } ,
-  
-    {
-      "title"    : "How to undo your git failure?",
-      "category" : "",
-      "tags"     : "External Post, Git",
-      "url"      : "https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74",
-      "date"     : "2015-09-25 00:00:00 -0500"
     } 
   
 ]

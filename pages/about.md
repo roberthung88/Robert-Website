@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I am a senior at the University of Southern California. Fun fact: At the age of 1, I turned on, played with, and successfully cut vital wires of my dad's ancient computer. At 5 years old, at my mother's company, I walked around, curious, and cut off all the electricity in the building. 
+I am a first year Master's student at the University of Michigan, Ann Arbor. Fun fact: At the age of 1, I turned on, played with, and successfully cut vital wires of my dad's ancient computer. At 5 years old, at my mother's company, I walked around, curious, and cut off all the electricity in the building. 
 
 What does that mean? No need to show me how to do things. I hunt for areas of improvement and dive right in. 
 **_No Asking Around_**, **_No Time Wasted_**. **_Always Conscientious_**. **_Always Exceeding Expectations_**.  
